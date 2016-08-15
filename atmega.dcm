@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATMEGA168A-P
+D PDIP28 Narrow, 16k Flash, 1kB SRAM, 512B EEPROM
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA328P-P
+D 32k Flash, 2kB SRAM, 1kB EEPROM
+K AVR 8bit Microcontroller MegaAVR PicoPower
+$ENDCMP
+#
+#End Doc Library
